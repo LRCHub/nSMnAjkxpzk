@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "下の名前で呼ばないで",
+  "base_artist": "Faulieu.",
+  "createdAt": "2026-03-08T05:09:04.881463Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "下の名前で呼ばないで",
+      "artist": "Faulieu.",
+      "has_synced": false,
+      "path": "select/pl_01_下の名前で呼ばないで_Faulieu..txt"
+    }
+  ]
+}
